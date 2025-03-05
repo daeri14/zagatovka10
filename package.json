@@ -1,6 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Dariga",
+	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
+		"package-name": "version",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
@@ -9,6 +15,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/daeri14/zagatovka10.git"
 	}
 }
